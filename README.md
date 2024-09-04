@@ -1,2 +1,2 @@
-# -Currency-Converter
-This online tool is used to translate the words and sentence in various language
+# Currency_Converter
+This currency converter tool is used the currency value of various countries
